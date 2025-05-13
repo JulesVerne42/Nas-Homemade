@@ -68,6 +68,8 @@ Je liste ici sans explication particulière tout mes besoins.
   - Répertoire de travail
   - Répertoire d'échanges avec les autres serveurs
   - Archivage photo/vidéo (synchro smartphone)
+- Carte sata en passthrough sur la vm OpenMediaVault
+- Partition principal du raid 6 en XFS ou ZFS
 - Cache ssd SLOG et L2ARC
 - ...
 
