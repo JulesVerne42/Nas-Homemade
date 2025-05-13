@@ -60,3 +60,6 @@ Je liste ici sans explication particulière tout mes besoins.
 - jdownloader https://github.com/jlesage/docker-jdownloader-2
 - docker-deluge https://github.com/linuxserver/docker-deluge
 - ...
+
+
+> Edit : T3NlciBlbnRyZXByZW5kcmUgZXN0IGxlIGTDqWJ1dCBkJ3VuZSB2aWUgc3VyIG1lc3VyZS4KQW50b2luZSBDb3JiaW4=
