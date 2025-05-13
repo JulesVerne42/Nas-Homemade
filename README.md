@@ -42,7 +42,7 @@ https://www.proxmox.com/en/
 Je liste ici sans explication particulière tout mes besoins.
 - OpenVpn https://openvpn.net/
 - ddclient https://github.com/ddclient/ddclient
-- docker-swag (include Certbot & fail2ban) https://github.com/linuxserver/docker-swag
+- swag (include Certbot & fail2ban) https://github.com/linuxserver/docker-swag
 - authelia https://github.com/authelia/authelia
 - dashy https://github.com/Lissy93/dashy
 - glance https://github.com/glanceapp/glance
@@ -50,7 +50,7 @@ Je liste ici sans explication particulière tout mes besoins.
 - portainer https://github.com/portainer/portainer
 - librespeed https://github.com/librespeed/speedtest
 - nextcloud https://nextcloud.com/fr/
-- file browser https://github.com/filebrowser/filebrowser
+- file-browser https://github.com/filebrowser/filebrowser
 - guacamole https://guacamole.apache.org/
 - moodle https://moodle.org/
 - crowdsec https://github.com/crowdsecurity/crowdsec
@@ -58,8 +58,19 @@ Je liste ici sans explication particulière tout mes besoins.
 - keepassXC https://keepassxc.org/
 - home-assistant https://www.home-assistant.io/
 - jdownloader https://github.com/jlesage/docker-jdownloader-2
-- docker-deluge https://github.com/linuxserver/docker-deluge
+- deluge https://github.com/linuxserver/docker-deluge
 - ...
+
+
+## :six: Features
+- Partage réseau CIFS et NFS
+  - Dépôt téléchargements
+  - Répertoire de travail
+  - Répertoire d'échanges avec les autres serveurs
+  - Archivage photo/vidéo (synchro smartphone)
+- Cache ssd SLOG et L2ARC
+- ...
+
 
 
 > Edito : T3NlciBlbnRyZXByZW5kcmUgZXN0IGxlIGTDqWJ1dCBkJ3VuZSB2aWUgc3VyIG1lc3VyZS4KQW50b2luZSBDb3JiaW4=
