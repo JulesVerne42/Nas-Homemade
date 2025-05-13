@@ -56,3 +56,5 @@ Je liste ici sans explication particulière tout mes besoins.
 - crowdsec https://github.com/crowdsecurity/crowdsec
 - gitlab https://about.gitlab.com/
 - keepassXC https://keepassxc.org/
+- home-assistant https://www.home-assistant.io/
+- ...
