@@ -1,3 +1,5 @@
+[![License: CC BY-NC-SA 4.0](https://img.shields.io/badge/License-CC_BY--NC--SA_4.0-lightgrey.svg)](https://creativecommons.org/licenses/by-nc-sa/4.0/)
+
 ## :one: Project presentation
 Sur ce repo je vous partage la mise en place de mon nouveau serveur nas.
 Actuellement possesseur d'un Synology DS220+, je souhaite upgrade vers un nouveau système qui m'offre plus de possibilité.
