@@ -80,5 +80,6 @@ Je liste ici sans explication particulière tout mes besoins.
 - ...
 
 
-
-> Edito : T3NlciBlbnRyZXByZW5kcmUgZXN0IGxlIGTDqWJ1dCBkJ3VuZSB2aWUgc3VyIG1lc3VyZS4KQW50b2luZSBDb3JiaW4=
+<sub><sup>
+T3NlciBlbnRyZXByZW5kcmUgZXN0IGxlIGTDqWJ1dCBkJ3VuZSB2aWUgc3VyIG1lc3VyZS4KQW50b2luZSBDb3JiaW4=
+</sup></sub>
