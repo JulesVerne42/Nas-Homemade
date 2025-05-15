@@ -81,19 +81,19 @@ Je liste ici sans explication particulière tout mes besoins.
 
 
 ## :seven: Progress
-- Rassemblement des composants hardware
-  - case
-  - hdd rack
-  - cpu
-  - ram
-  - motherboard
-  - sata expansion card
-  - ethernet network card
-  - psu
-  - storage
-- Montage hardware du serveur
-- Installation de Proxmox
-- Déploiement de la vm OpenMediaVault
+- [ ] Rassemblement des composants hardware
+  - [x] case
+  - [ ] hdd rack
+  - [x] cpu
+  - [ ] ram
+  - [ ] motherboard
+  - [x] sata expansion card
+  - [x] ethernet network card
+  - [ ] psu
+  - [ ] storage
+- [ ] Montage hardware du serveur
+- [ ] Installation de Proxmox
+- [ ] Déploiement de la vm OpenMediaVault
 
 
 
