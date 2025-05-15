@@ -20,7 +20,7 @@ J'ai quelques contraintes à respecter, notamment qu'il faut un boitier rackable
 - Sata expansion card : **Pcie 3.0 4x SATA Controleur 10 Ports**  
   https://mzhou.com/product/pcie-sata-controller-card-10-port-6gbps-sata-3-0-pcie/
 - Ethernet network card : **Intel X520-DA2 2x10Gb SFP+** (Attention au nombreuses contrefaçons)
-- Psu : Atx 500W Gold ou Platinum
+- Psu : Atx 700W Gold ou Platinum
 - Storage os : 500go nvme
 - Storage vm/container : 2x2to ssd 2.5" en raid 1
 - Storage cache ssd : 2x1to nvme
