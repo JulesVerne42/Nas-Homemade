@@ -60,8 +60,9 @@ Je liste ici sans explication particulière tout mes besoins.
 - gitlab https://about.gitlab.com/
 - keepassXC https://keepassxc.org/
 - home-assistant https://www.home-assistant.io/
-- jdownloader https://github.com/jlesage/docker-jdownloader-2
-- deluge https://github.com/linuxserver/docker-deluge
+- ~jdownloader https://github.com/jlesage/docker-jdownloader-2~
+- ~deluge https://github.com/linuxserver/docker-deluge~
+- pyload https://github.com/pyload/pyload
 - frigate https://github.com/blakeblackshear/frigate
 - ...
 
