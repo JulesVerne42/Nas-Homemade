@@ -1,11 +1,11 @@
 [![License: CC BY-NC-SA 4.0](https://img.shields.io/badge/License-CC_BY--NC--SA_4.0-lightgrey.svg)](https://creativecommons.org/licenses/by-nc-sa/4.0/)
 
 ## :one: Project presentation
-Sur ce repo je vous partage la mise en place de mon nouveau serveur nas.
-Actuellement possesseur d'un Synology DS220+, je souhaite upgrade vers un nouveau système qui m'offre plus de possibilité.
-Il était prévu que je migre vers un Synology DS1621+, mais les récentes nouvelles concernant Synology m'ont confortées dans mon choix qu'il était temps de passer sur ma propre solution.
+Sur ce repo je vous partage la mise en place de mon nouveau serveur nas.  
+Actuellement possesseur d'un Synology DS220+, je souhaite upgrade vers un nouveau système qui m'offre plus de possibilité.  
+Il était prévu que je migre vers un Synology DS1621+, mais les récentes nouvelles concernant Synology m'ont confortées dans mon choix qu'il était temps de passer sur ma propre solution.  
 
-J'ai quelques contraintes à respecter, notamment qu'il faut un boitier rackable, une configuration plutôt économique en énergie mais qui puisse m'offrir suffisamment de performance pour héberger tout mes services en cours et à venir.
+J'ai quelques contraintes à respecter, notamment qu'il faut un boitier rackable, une configuration plutôt économique en énergie mais qui puisse m'offrir suffisamment de performance pour héberger tout mes services en cours et à venir.  
 
 
 ## :two: Hardware
