@@ -25,6 +25,7 @@ J'ai quelques contraintes à respecter, notamment qu'il faut un boitier rackable
 - Storage vm/container : 2x2to ssd 2.5" en raid 1
 - Storage cache ssd : 2x1to nvme
 - Storage data : 6x10to hdd en raid 6
+- Storage cctv : 2x4to hdd en raid 1
 
 
 ## :three: Operating system
@@ -61,6 +62,7 @@ Je liste ici sans explication particulière tout mes besoins.
 - home-assistant https://www.home-assistant.io/
 - jdownloader https://github.com/jlesage/docker-jdownloader-2
 - deluge https://github.com/linuxserver/docker-deluge
+- frigate https://github.com/blakeblackshear/frigate
 - ...
 
 
