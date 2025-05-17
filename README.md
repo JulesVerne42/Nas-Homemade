@@ -60,6 +60,7 @@ Je liste ici sans explication particulière tout mes besoins.
 - ~deluge https://github.com/linuxserver/docker-deluge~
 - pyload https://github.com/pyload/pyload
 - frigate https://github.com/blakeblackshear/frigate
+- headscale https://headscale.net/stable/
 - ...
 
 
