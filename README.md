@@ -61,6 +61,8 @@ Je liste ici sans explication particulière tout mes besoins.
 - pyload https://github.com/pyload/pyload
 - frigate https://github.com/blakeblackshear/frigate
 - headscale https://headscale.net/stable/
+- joomla https://github.com/joomla/joomla-cms
+- mastodon https://github.com/mastodon/mastodon
 - ...
 
 
