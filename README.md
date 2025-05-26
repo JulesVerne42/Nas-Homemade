@@ -7,8 +7,8 @@ Il était prévu que je migre vers un Synology DS1621+, mais les récentes nouve
 
 Voici mes principaux objectifs à mettre en place :
 - Un volume partagé sur le lan
-- Un volume propre au vm
-- Un volume réseau pour les téléchargements
+- Un volume propre au vm/container
+- Un volume pour les téléchargements
 - Un volume dédié à la vidéo-surveillance
 - ...
 
