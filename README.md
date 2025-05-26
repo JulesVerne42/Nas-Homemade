@@ -5,6 +5,14 @@ Sur ce repo je vous partage la mise en place de mon nouveau serveur nas.
 Actuellement possesseur d'un Synology DS220+, je souhaite upgrade vers un nouveau système qui m'offre plus de possibilité.  
 Il était prévu que je migre vers un Synology DS1621+, mais les récentes nouvelles concernant Synology m'ont confortées dans mon choix qu'il était temps de passer sur ma propre solution.  
 
+Voici mes principaux objectifs à mettre en place :
+- Un volume partagé sur le lan
+- Un volume propre au vm
+- Un volume réseau pour les téléchargements
+- Un volume dédié à la vidéo-surveillance
+- ...
+
+
 J'ai quelques contraintes à respecter, notamment qu'il faut un boitier rackable, une configuration plutôt économique en énergie mais qui puisse m'offrir suffisamment de performance pour héberger tout mes services en cours et à venir.  
 
 
