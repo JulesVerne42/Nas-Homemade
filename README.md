@@ -71,6 +71,9 @@ Je liste ici sans explication particulière tout mes besoins.
 - headscale https://headscale.net/stable/
 - joomla https://github.com/joomla/joomla-cms
 - mastodon https://github.com/mastodon/mastodon
+- nut https://github.com/networkupstools/nut
+- grafana https://github.com/grafana/grafana
+- telegraf https://github.com/influxdata/telegraf
 - ...
 
 
