@@ -61,7 +61,8 @@ Je liste ici sans explication particulière tout les outils à déployer.
 - guacamole https://guacamole.apache.org/
 - moodle https://moodle.org/
 - crowdsec https://github.com/crowdsecurity/crowdsec
-- gitlab https://about.gitlab.com/
+- ~gitlab https://about.gitlab.com/~
+- forgejo https://forgejo.org/
 - keepassXC https://keepassxc.org/
 - home-assistant https://www.home-assistant.io/
 - ~jdownloader https://github.com/jlesage/docker-jdownloader-2~
