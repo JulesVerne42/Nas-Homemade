@@ -46,7 +46,7 @@ https://www.proxmox.com/en/
 
 
 ## :five: Container and services
-Je liste ici sans explication particulière tout mes besoins.
+Je liste ici sans explication particulière tout les outils à déployer.
 - OpenVpn https://openvpn.net/
 - ddclient https://github.com/ddclient/ddclient
 - swag (include Certbot & fail2ban) https://github.com/linuxserver/docker-swag
@@ -74,6 +74,11 @@ Je liste ici sans explication particulière tout mes besoins.
 - nut https://github.com/networkupstools/nut
 - grafana https://github.com/grafana/grafana
 - telegraf https://github.com/influxdata/telegraf
+- mealie https://github.com/mealie-recipes/mealie
+- immich https://github.com/immich-app/immich?tab=readme-ov-file
+- komga https://github.com/gotson/komga
+- code-server https://github.com/coder/code-server
+- WatchYourLan https://github.com/aceberg/WatchYourLAN
 - ...
 
 
